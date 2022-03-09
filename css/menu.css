@@ -1,0 +1,34 @@
+.uno{
+    background-color: brown;
+}
+.dos{
+    background-color: aqua;
+}
+.tres{
+    background-color: blue;
+}
+header{
+background-color: rgb(6, 6, 77);
+}
+header h1{
+    color: blanchedalmond;
+}
+aside{
+    background-color: brown;
+}
+aside p {
+    color: aliceblue;
+}
+.color1{
+    background-color: rgba(17, 17, 100, 0.541);
+}
+.color1 p{
+    color: aliceblue;
+}
+footer{
+    background-color: aqua;
+
+}
+footer h1{
+   color: aliceblue; 
+}
